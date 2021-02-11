@@ -1,0 +1,28 @@
+h1{
+  color: rgb(24, 68, 24);
+  text-align: center;
+}
+h2 {
+  color: rgb(75, 148, 87);
+  font-style: italic;
+  text-align: center;
+}
+p {
+  font-family: sans-serif;
+}
+ul {
+  line-height: 40px;
+}
+body{
+  background-color:rgb(188, 202, 186);
+  font-size: 20px;
+  font-style: oblique;
+  line-height:normal ;
+  color: black;
+}
+strong{
+  color: rgb(16, 66, 6);
+}
+div{
+  text-align: center;
+}
